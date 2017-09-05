@@ -17,6 +17,9 @@ Pair programming is an agile software development technique in which two program
 # The Language
 You can make katas in every languages, the important point is to learn tdd, good practices and pairing.
 
+# The repo
+Once you've attended to a Katayuno, if you wish to share your work on our repo, add your project to the 'examples' folder inside the kata you've done (i.e. katayuno/katas/fizz_buzz/examples/your_kata). Then create a pull request.
+
 # The meetup
 This is the meetup: https://www.meetup.com/es-ES/Aprende-a-programar-en-Valencia/events/242889981/
 Katayuno is hosted by [Flywire](https://www.flywire.com/) and organized by [Devscola](http://www.devscola.org).
